@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -context ORMContexto "Server=DESKTOP-MN1EE7B\SQLEXPRESS;Database=Teste_Pratico_Gaia_Next;user id=teste;password=1234" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ORM -force
